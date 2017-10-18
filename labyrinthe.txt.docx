@@ -1,0 +1,19 @@
+Fichier texte pour le projet 3
+labyrinthe représenté
+
+laby = [
+"xx   xxxxxxxxxx",
+"xxx  xxxxxxxxxx",
+"xxxx  xxxxxxxxx",
+"xxxxx  xxxxxxxx",
+"xxxxxx  xxxxxxx",
+"xxxxx  xxxxxxxx",
+"xxxxx  xxxxxxxx",
+"xxxxx  xxxxxxxx",
+"xxxxxx  xxxxxxx",
+"xxxx xxxxxxxxxx",
+"xxxxx  xxxxxxxx",
+"xxxxx  xxxxxxxx",
+"xxxxx  xxxxxxxx",
+"xxxxx  xxxxxxxx",
+]
